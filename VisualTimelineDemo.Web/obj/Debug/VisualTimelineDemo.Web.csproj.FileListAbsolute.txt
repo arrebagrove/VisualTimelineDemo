@@ -1,0 +1,15 @@
+C:\Development\VisualTimelineDemo\VisualTimelineDemo.Web\bin\VisualTimelineDemo.Web.dll
+C:\Development\VisualTimelineDemo\VisualTimelineDemo.Web\bin\VisualTimelineDemo.Web.pdb
+C:\Development\VisualTimelineDemo\VisualTimelineDemo.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\VisualTimelineDemo\VisualTimelineDemo.Web\obj\Debug\VisualTimelineDemo.Web.dll
+C:\Development\VisualTimelineDemo\VisualTimelineDemo.Web\obj\Debug\VisualTimelineDemo.Web.pdb
+C:\Users\Jose\Documents\VisualTimelineDemo\VisualTimelineDemo\VisualTimelineDemo.Web\bin\VisualTimelineDemo.Web.dll
+C:\Users\Jose\Documents\VisualTimelineDemo\VisualTimelineDemo\VisualTimelineDemo.Web\bin\VisualTimelineDemo.Web.pdb
+C:\Users\Jose\Documents\VisualTimelineDemo\VisualTimelineDemo\VisualTimelineDemo.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jose\Documents\VisualTimelineDemo\VisualTimelineDemo\VisualTimelineDemo.Web\obj\Debug\VisualTimelineDemo.Web.dll
+C:\Users\Jose\Documents\VisualTimelineDemo\VisualTimelineDemo\VisualTimelineDemo.Web\obj\Debug\VisualTimelineDemo.Web.pdb
+I:\My DropBox\Visual Studio 2008\Projects\VisualTimelineDemo\VisualTimelineDemo.Web\bin\VisualTimelineDemo.Web.dll
+I:\My DropBox\Visual Studio 2008\Projects\VisualTimelineDemo\VisualTimelineDemo.Web\bin\VisualTimelineDemo.Web.pdb
+I:\My DropBox\Visual Studio 2008\Projects\VisualTimelineDemo\VisualTimelineDemo.Web\obj\Debug\ResolveAssemblyReference.cache
+I:\My DropBox\Visual Studio 2008\Projects\VisualTimelineDemo\VisualTimelineDemo.Web\obj\Debug\VisualTimelineDemo.Web.dll
+I:\My DropBox\Visual Studio 2008\Projects\VisualTimelineDemo\VisualTimelineDemo.Web\obj\Debug\VisualTimelineDemo.Web.pdb
